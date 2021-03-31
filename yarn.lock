@@ -454,7 +454,7 @@ aws4@^1.8.0:
 
 axios@^0.19.0:
   version "0.19.0"
-  resolved "http://r.cnpmjs.org/axios/download/axios-0.19.0.tgz#8e09bff3d9122e133f7b8101c8fbdd00ed3d2ab8"
+  resolved "https://r.cnpmjs.org/axios/download/axios-0.19.0.tgz#8e09bff3d9122e133f7b8101c8fbdd00ed3d2ab8"
   integrity sha1-jgm/89kSLhM/e4EByPvdAO09Krg=
   dependencies:
     follow-redirects "1.5.10"
@@ -2049,7 +2049,7 @@ debug@2.6.9, debug@^2.1.0, debug@^2.1.1, debug@^2.2.0, debug@^2.3.3, debug@^2.6.
 
 debug@=3.1.0:
   version "3.1.0"
-  resolved "http://r.cnpmjs.org/debug/download/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
+  resolved "https://r.cnpmjs.org/debug/download/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
   integrity sha1-W7WgZyYotkFJVmuhaBnmFRjGcmE=
   dependencies:
     ms "2.0.0"
@@ -2279,7 +2279,7 @@ ecc-jsbn@~0.1.1:
 
 echarts-for-react@^2.0.15-beta.1:
   version "2.0.15-beta.1"
-  resolved "http://r.cnpmjs.org/echarts-for-react/download/echarts-for-react-2.0.15-beta.1.tgz#1afa21ee0f08f9023eff0b5ab3351f2fe0f708b6"
+  resolved "https://r.cnpmjs.org/echarts-for-react/download/echarts-for-react-2.0.15-beta.1.tgz#1afa21ee0f08f9023eff0b5ab3351f2fe0f708b6"
   integrity sha1-Gvoh7g8I+QI+/wtaszUfL+D3CLY=
   dependencies:
     fast-deep-equal "^2.0.1"
@@ -2287,7 +2287,7 @@ echarts-for-react@^2.0.15-beta.1:
 
 echarts@^4.4.0:
   version "4.4.0"
-  resolved "http://r.cnpmjs.org/echarts/download/echarts-4.4.0.tgz#d5260566cef0b98f5a00baf1b5010e92c1c23661"
+  resolved "https://r.cnpmjs.org/echarts/download/echarts-4.4.0.tgz#d5260566cef0b98f5a00baf1b5010e92c1c23661"
   integrity sha1-1SYFZs7wuY9aALrxtQEOksHCNmE=
   dependencies:
     zrender "4.1.1"
@@ -2969,7 +2969,7 @@ flatten@^1.0.2:
 
 follow-redirects@1.5.10:
   version "1.5.10"
-  resolved "http://r.cnpmjs.org/follow-redirects/download/follow-redirects-1.5.10.tgz#7b7a9f9aea2fdff36786a94ff643ed07f4ff5e2a"
+  resolved "https://r.cnpmjs.org/follow-redirects/download/follow-redirects-1.5.10.tgz#7b7a9f9aea2fdff36786a94ff643ed07f4ff5e2a"
   integrity sha1-e3qfmuov3/NnhqlP9kPtB/T/Xio=
   dependencies:
     debug "=3.1.0"
@@ -3583,7 +3583,7 @@ is-buffer@^1.1.5:
 
 is-buffer@^2.0.2:
   version "2.0.4"
-  resolved "http://r.cnpmjs.org/is-buffer/download/is-buffer-2.0.4.tgz#3e572f23c8411a5cfd9557c849e3665e0b290623"
+  resolved "https://r.cnpmjs.org/is-buffer/download/is-buffer-2.0.4.tgz#3e572f23c8411a5cfd9557c849e3665e0b290623"
   integrity sha1-PlcvI8hBGlz9lVfISeNmXgspBiM=
 
 is-ci@^1.0.9:
@@ -6781,7 +6781,7 @@ signal-exit@^3.0.0:
 
 size-sensor@^0.2.0:
   version "0.2.5"
-  resolved "http://r.cnpmjs.org/size-sensor/download/size-sensor-0.2.5.tgz#e8ffb7cc5258893472bfda4f5734d66583247757"
+  resolved "https://r.cnpmjs.org/size-sensor/download/size-sensor-0.2.5.tgz#e8ffb7cc5258893472bfda4f5734d66583247757"
   integrity sha1-6P+3zFJYiTRyv9pPVzTWZYMkd1c=
 
 slash@^1.0.0:
@@ -7759,9 +7759,9 @@ xtend@^4.0.0:
   integrity sha1-u3J3n1+kZRhrH0OPZ0+jR/2121Q=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.npm.taobao.org/y18n/download/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 yallist@^2.1.2:
   version "2.1.2"
@@ -7811,5 +7811,5 @@ yargs@~3.10.0:
 
 zrender@4.1.1:
   version "4.1.1"
-  resolved "http://r.cnpmjs.org/zrender/download/zrender-4.1.1.tgz#201e58a55cf1a7e973e1dbad3c15596ef8779f54"
+  resolved "https://r.cnpmjs.org/zrender/download/zrender-4.1.1.tgz#201e58a55cf1a7e973e1dbad3c15596ef8779f54"
   integrity sha1-IB5YpVzxp+lz4dutPBVZbvh3n1Q=
